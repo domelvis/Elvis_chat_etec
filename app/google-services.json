@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210580351444",
+    "firebase_url": "https://chat2-71702-default-rtdb.firebaseio.com",
+    "project_id": "chat2-71702",
+    "storage_bucket": "chat2-71702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210580351444:android:7d3709bd04ab084eec0e41",
+        "android_client_info": {
+          "package_name": "com.example.chatetec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210580351444-ubbude7c1psv0ahhom3dj0ts29po1148.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatetec",
+            "certificate_hash": "9fe07f64200beb5c7ecf55e20c2d6770877922fa"
+          }
+        },
+        {
+          "client_id": "210580351444-60gtvcvvj4tn6cv8n800oav6qr6716nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1ow5FiJCPO3aj6I9d1Y7tm-vRYgW9Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210580351444-60gtvcvvj4tn6cv8n800oav6qr6716nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
